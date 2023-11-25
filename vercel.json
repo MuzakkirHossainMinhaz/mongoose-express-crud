@@ -3,14 +3,14 @@
     "name": "mongoose-express-crud",
     "builds": [
         {
-            "src": "./dist/server.js",
+            "src": "dist/server.js",
             "use": "@vercel/node"
         }
     ],
     "routes": [
         {
             "src": "/(.*)",
-            "dest": "./dist/server.js"
+            "dest": "dist/server.js"
         }
     ]
 }
