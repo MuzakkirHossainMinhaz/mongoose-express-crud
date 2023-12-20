@@ -1,4 +1,4 @@
-# mongoose-express-crud
+# mongoose-express-crud-mastery
 
 This repository houses a robust Mongoose and Express API designed for user and order management. The API offers essential CRUD operations for users and includes additional features for order management, making it a versatile solution for developers building applications that require user and order handling.
 
@@ -22,12 +22,12 @@ To use this API in your project, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/mongoose-express-crud-api.git
+   git clone https://github.com/MuzakkirHossainMinhaz/mongoose-express-crud.git
    ```
 
 2. **Install Dependencies:**
    ```bash
-   cd mongoose-express-crud-api
+   cd mongoose-express-crud
    npm install
    ```
 
